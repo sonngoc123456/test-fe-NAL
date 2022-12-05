@@ -1,0 +1,30 @@
+.news-hot-one {
+    width: 630px;
+    height: 470px;
+    padding-top: 10px;
+}
+
+.news-hot-two {
+    width: 355px;
+    height: 220px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.news-hot-top {
+    margin-left: 20px;
+}
+
+.popular-news {
+    font-size: 11.5px;
+}
+
+.latest-new-image {
+    width: 210px;
+    height: 157px;
+}
+
+.latest-news {
+    font-size: 11.5px;
+    color: #7d7d7d;
+}
